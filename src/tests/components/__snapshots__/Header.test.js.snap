@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render Header correctly 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="content-container"
+  >
+    <Link
+      className="header__title"
+      replace={false}
+      to="/"
+    >
+      <h1>
+        React Boilerplate
+      </h1>
+    </Link>
+  </div>
+</header>
+`;

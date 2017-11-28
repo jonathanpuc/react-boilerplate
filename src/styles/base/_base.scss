@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: $m-size;
+  background-color: hsla(281, 100%, 59%, 0.993);
+  color: #fff;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+.is-active {
+  font-weight: bold;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 25rem;
+  padding: 2rem 0;
+  background-color: rgba(0, 0, 0, 0.418);
+  color: #eee;
+  font-size: $font-size-small;
+}
+
+.intro__title {
+  font-weight: 300;
+}

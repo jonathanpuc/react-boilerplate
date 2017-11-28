@@ -1,0 +1,12 @@
+.header {
+  background: hsla(281, 85%, 40%, 0.993);
+}
+
+.header__title {
+  color: white;
+  text-decoration: none;
+  h1 {
+    margin: 0;
+    padding: $m-size;
+  }
+}
