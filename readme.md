@@ -1,15 +1,13 @@
-# Chump Change
+# React Boilerplate
 
-Manage your expenses, master your change, chump.
+A boilerplate template for React applications.
 
-### Installation
+## Loaded with
 
-Run yarn or npm install.
+Webpack | Babel | Sass | Jest | React-Redux
 
-## Built With
+## Getting Started
 
-React Airbnb/react-dates Moment.js
-
-## Running the tests
-
-Testing built with Jest. Run yarn test or npm run test
+1. Run 'yarn' or 'npm install'.
+2. Run yarn 'run dev-server' or 'npm run dev-server' for a live server.
+3. Code away!
