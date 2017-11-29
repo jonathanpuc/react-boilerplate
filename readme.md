@@ -4,7 +4,7 @@ A boilerplate template for React applications.
 
 ## Loaded with
 
-Webpack | Babel | Sass | Jest | React-Redux
+Webpack | Babel | Sass | Jest | React-Redux | React-Router
 
 ## Getting Started
 
